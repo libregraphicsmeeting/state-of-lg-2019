@@ -22,7 +22,7 @@ The graphics files should be 1024×768 – if they are not; they will be resized
 
 The [sample-project](sample-project/) directory contains a set of empty files that you can build upon.
 
-If you're wondering what you should put on the slides, you can watch the [State of Libre Graphics 2014](https://www.youtube.com/watch?v=URm3ke0LTD4) or browse through the [2018 repository](https://github.com/libregraphicsmeeting/state-of-lg-2018)
+If you're wondering what you should put on the slides, you can watch the [State of Libre Graphics 2014](https://www.youtube.com/watch?v=URm3ke0LTD4) or browse through the [2018 repository](https://github.com/libregraphicsmeeting/state-of-lg-2018) / [watch the 2018 presentation](https://www.youtube.com/watch?v=HDeUAqWTW5g)
 
 For projects focused on video/animation, an up to 100 seconds video/animation with audio is a good alterantive to the slides 1 and 2. If you choose this option, please upload the video somewhere and provide an URL for fetching it in the txt/md file.
 
