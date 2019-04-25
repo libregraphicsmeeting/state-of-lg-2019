@@ -20,9 +20,10 @@ For each project we want a title slide and one, none, or two content slides.
 
 The files will be placed in a directory with the project name.
 
-The graphics files should be 1024×768 – if they are not; they will be resized to fit.
+The graphics files should be 1024×768.  
+If they are not, they will be resized to fit.
 
-The [sample-project](sample-project/) directory contains a set of empty files that you can build upon.
+This repository contrains a [sample-project](sample-project/) directory with a set of empty files that you can build upon.
 
 If you're wondering what you should put on the slides, you can watch the [State of Libre Graphics 2014](https://www.youtube.com/watch?v=URm3ke0LTD4) or browse through the [2018 repository](https://github.com/libregraphicsmeeting/state-of-lg-2018) / [watch the 2018 presentation](https://www.youtube.com/watch?v=HDeUAqWTW5g)
 
