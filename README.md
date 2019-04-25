@@ -13,10 +13,10 @@ For each project we want a title slide and one, none, or two content slides.
 
 **Naming of the files:**
 
-- projectname-0.png
-- projectname-1.png
-- projectname-2.png
-- projectname.txt or projectname.md
+- `projectname-0.png`
+- `projectname-1.png`
+- `projectname-2.png`
+- `projectname.txt` or `projectname.md` (that's the speaker's notes)
 
 The files will be placed in a directory with the project name.
 
