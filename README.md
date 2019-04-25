@@ -28,7 +28,7 @@ If you're wondering what you should put on the slides, you can watch the [State 
 
 For projects focused on video/animation, an up to 100 seconds video/animation with audio is a good alterantive to the slides 1 and 2. If you choose this option, please upload the video somewhere and provide an URL for fetching it in the txt/md file.
 
-** How to submit your slides? **
+**How to submit your slides?**
 
 Please provide your project's slides through a pull request to this repository or add them to an issue ticket.
 
