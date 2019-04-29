@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024px"
+   height="768px"
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="birdfont_libre_graphics_meeting_2019.svg"
+   inkscape:export-filename="/home/johan/birdfont-0.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="545.94794"
+     inkscape:cy="431.94531"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs815">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4468"
+       id="linearGradient4278"
+       gradientUnits="userSpaceOnUse"
+       x1="8.5716257"
+       y1="82.838142"
+       x2="77.407417"
+       y2="-10.225219" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4468">
+      <stop
+         style="stop-color:#008ac1;stop-opacity:1"
+         offset="0"
+         id="stop4456" />
+      <stop
+         style="stop-color:#00aade;stop-opacity:1"
+         offset="1"
+         id="stop4458" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4468"
+       id="linearGradient2476"
+       gradientUnits="userSpaceOnUse"
+       x1="8.5716257"
+       y1="82.838142"
+       x2="77.407417"
+       y2="-10.225219" />
+  </defs>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.97461474;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2580"
+       width="1024"
+       height="768"
+       x="0"
+       y="5.6843419e-14"
+       inkscape:export-filename="/home/johan/birdfont-0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#366c80;fill-opacity:1;stroke:none;stroke-width:1.47391939;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1376"
+       width="1024"
+       height="22"
+       x="0"
+       y="208" />
+    <g
+       id="g4280"
+       transform="matrix(0.6177083,0,0,0.6177083,1226.0353,-668.17811)">
+      <rect
+         inkscape:export-ydpi="90.000008"
+         inkscape:export-xdpi="90.000008"
+         inkscape:export-filename="/home/johan/birdfont/resources/linux/256x256/birdfont.png"
+         y="1113.8668"
+         x="-654.08746"
+         height="256"
+         width="256"
+         id="rect4875-0"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90.000008"
+         inkscape:export-xdpi="90.000008"
+         inkscape:export-filename="/home/johan/birdfont/resources/linux/256x256/birdfont.png"
+         y="1170.7489"
+         x="-579.08008"
+         height="137.04079"
+         width="107.53895"
+         id="rect4921-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="90.000008"
+         inkscape:export-xdpi="90.000008"
+         inkscape:export-filename="/home/johan/birdfont/resources/linux/256x256/birdfont.png"
+         style="fill:url(#linearGradient4278);fill-opacity:1"
+         transform="matrix(2.130976,0,0,2.130976,-608.37057,1166.1682)"
+         id="B-7-1-8">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient2476);fill-opacity:1;stroke-width:0px"
+           d="M 20.86914,62.970709 H 39.30469 V 45.292969 H 52.9414 L 53.69922,30.39258 H 40.0625 V 20.29102 L 56.72851,20.54297 58.24414,9.6836 20.86914,9.43164 Z M 52.56497,-16.43502 C 76.483865,-16.096019 80.396814,0.3836932 80.35742,9.1153716 80.298161,22.250049 74.686675,28.231432 69.28515,31.35742 74.782731,35.924597 80.775758,39.77855 81.07226,55.026583 81.643428,84.399491 53.92969,83.85742 53.92969,83.85742 L 0,84.21485 V -16.5 Z"
+           id="path_B-2-79-45" />
+      </g>
+      <g
+         inkscape:export-ydpi="90.000008"
+         inkscape:export-xdpi="90.000008"
+         inkscape:export-filename="/home/johan/birdfont/resources/linux/256x256/birdfont.png"
+         style="fill:#a3daf6;fill-opacity:1"
+         transform="matrix(2.130976,0,0,2.130976,-608.51121,1166.5009)"
+         id="B-0-0-6-61">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#a3daf6;fill-opacity:1;stroke-width:0px"
+           d="m 59.141772,4.0476554 -0.88539,5.4764683 H 24.40441 V 62.810947 H 18.34349 V 3.7157444 Z"
+           id="path_B-6-9-30-7" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:80.39198303px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.00979948px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="50.949799"
+       y="130.29877"
+       id="text2480"><tspan
+         sodipodi:role="line"
+         id="tspan2478"
+         x="50.949799"
+         y="130.29877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:2.00979948px">Birdfont</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.04073715px;line-height:159.30000544%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32601833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="52.676697"
+       y="317.53171"
+       id="text2480-9"><tspan
+         sodipodi:role="line"
+         x="52.676697"
+         y="317.53171"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:159.30000544%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';letter-spacing:0px;stroke-width:1.32601833px"
+         id="tspan2500">•Better TTF parsing</tspan><tspan
+         sodipodi:role="line"
+         x="52.676697"
+         y="403.00409"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:159.30000544%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';letter-spacing:0px;stroke-width:1.32601833px"
+         id="tspan2504">•Support for Unicode version 12</tspan><tspan
+         sodipodi:role="line"
+         x="52.676697"
+         y="488.47644"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:159.30000544%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';letter-spacing:0px;stroke-width:1.32601833px"
+         id="tspan2508">•Default template for HTML preview</tspan><tspan
+         sodipodi:role="line"
+         x="52.676697"
+         y="572.97034"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:159.30000544%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';letter-spacing:0px;stroke-width:1.32601833px"
+         id="tspan2506" /></text>
+  </g>
+</svg>
