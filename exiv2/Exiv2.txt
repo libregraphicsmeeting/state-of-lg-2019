@@ -1,0 +1,55 @@
+Exiv2 Speaker's Notes
+---------------------
+
+1) What is Exiv2?
+-----------------
+
+Exiv2 is a Cross-platform C++ library and a command line utility to manage image metadata.
+
+Exiv2 provides fast and easy read and write access to the Exif, IPTC and XMP metadata
+and the ICC Profile embedded within digital images in various formats.
+
+Exiv2 is used in many projects including KDE and Gnome Desktops as well as many applications
+including GIMP, darktable, shotwell, GwenView and Luminance HDR.
+
+2) Contributor and Roadmap
+--------------------------
+
+Project was started in 2004 by Andreas Huggel
+
+Robin joined in 2008 and carried it alone from 2012-2017
+
+Delighted to say the team is growing steadily
+and we have friends (in other projects) who help and encourage.
+
+Releases
+--------
+Exiv2 v0.27 was released in December 2018
+
+We are planning a series of "dot" releases in 2019 and 2020
+while the code is refactored for C++11.
+
+v0.28 is more than refactoring, it's a major internal overhaul.
+
+Exiv2 hopes to release v0.28 in 2020
+
+
+3) Features
+-----------
+
+v0.27 was about security and project infrastructure
+- new build and test code
+- new documentation
+- new release process
+- new web site
+
+v0.28 is about security and code refactoring
+- secure
+- deprecate some legacy Features
+
+Conclusion
+----------
+
+- Happy growing team
+- Lots of good software engineering
+- v0.29?.  We'll tell you at LGM in 2021.
