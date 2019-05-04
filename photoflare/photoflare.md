@@ -2,18 +2,18 @@
 
 -- Slide 0 --
 
-![](sample-project-0.png)
+![](photoflare-0.png)
 
-In one sentence, describe what your project does.
+PhotoFlare is an Open-Source image editor distributed under the GPL license. It is fully Cross Platform software and has been translated into five world languages thanks to community contributions.
 
 -- Slide 1 --
 
-![](sample-project-1.png)
+![](photoflare-1.png)
 
 Tell what your project did last year.
 
 -- Slide 2 --
 
-![](sample-project-2.png)
+![](photoflare-2.png)
 
 More about your last year's activity and/or plans for next year.
