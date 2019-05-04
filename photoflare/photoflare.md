@@ -16,4 +16,4 @@ Last year we released eight bug fix releases to the v1.5 series of the project. 
 
 ![](photoflare-2.png)
 
-I have started to do some dedicated development days inside an office environment outside of my day job in order to progress the next major iteration (v2.0). In v2.0 we hope to push this project even further with features such as Layer support and LibMyPaint brushes. PhotoFlare v1.5.x continues to become available in more repositories within Linux distributions. To keep this project in motion we would appreciate some donations, code contributions or new translations.
+I have started to do some dedicated development days inside an office environment outside of my day job in order to progress the next major iteration (v2.0). In v2.0 we hope to push this project even further with features such as Layer support and LibMyPaint brushes. PhotoFlare v1.5.x continues to become available in [more repositories](https://repology.org/project/photoflare/versions) within Linux distributions. To keep this project in motion we would appreciate some donations, code contributions or new translations.
