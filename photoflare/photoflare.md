@@ -2,7 +2,7 @@
 
 ![](photoflare-0.png)
 
-PhotoFlare is an Open-Source image editor distributed under the GPL license. It is fully Cross Platform software and thanks to the wonderful community it has been translated into five world languages. Technology wise the editor is built upon C++, Qt5 and GraphicsMagick.
+PhotoFlare is an Open-Source image editor distributed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license. It is fully Cross Platform software and thanks to the wonderful community it has been translated into five world languages. Technology wise the editor is built upon C++, Qt5 and GraphicsMagick.
 
 ## Main Features
 - Image cropping/resizing.
