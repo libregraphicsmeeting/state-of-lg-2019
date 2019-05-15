@@ -1,18 +1,24 @@
 # PhotoFlare (speaker's notes)
 
-##Main User Interface
-
 ![](photoflare-0.png)
 
 PhotoFlare is an Open-Source image editor distributed under the GPL license. It is fully Cross Platform software and thanks to the wonderful community it has been translated into five world languages. Technology wise the editor is built upon C++, Qt5 and GraphicsMagick.
 
-##Hue Variation
+## Main Features
+- Image cropping/resizing.
+- Hue Variation.
+- Gradient creation.
+- Filters.
+- Batch processing.
+- Window modes (Tabs or MDI).
+
+## Hue Variation
 
 ![](photoflare-1.png)
 
 Last year we released **eight** bug fix releases to the v1.5 series of the project. We got Travis CI and automatic AppImage builds setup on GitHub to help the project grow. This year our project pushed out two more bug fix releases (v1.5.7, v1.5.8). We got featured in a podcast ([linuxgamecast.com](https://linuxgamecast.com/2018/12/lwdw-147-linux-in-2019/)) and online magazine ([libregraphicsworld.org](http://libregraphicsworld.org/blog/entry/photoflare-interview-2019)). The stable v1.5 series has been accepted into Debian repositories and is available since Ubuntu 19.04 as an [official package](https://packages.ubuntu.com/source/disco/photoflare).
 
-##Batch processing
+## Batch processing
 
 ![](photoflare-2.png)
 
