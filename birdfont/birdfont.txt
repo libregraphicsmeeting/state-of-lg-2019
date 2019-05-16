@@ -1,0 +1,2 @@
+The Birdfont project is almost complete but a few new features has landed in the repository during the last year.
+TTF parsing has been improved, support for Unicode 12 has been added and designers can add a template for the HTML preview.
