@@ -1,6 +1,9 @@
 # Omm
 
 ## (1) What is omm?
+
+![](ommpfritt-0.png)
+
 - general purpose vector graphics editor
 - GPL
 - design goals:
@@ -18,11 +21,15 @@
   - formulate object-dependencies (e.g., radius of that ellipse is twice the width of that rectangle)
 
 ## (2) Comparison with existing applications
+
+![](ommpfritt-1.png)
+
 - Visual editors (e.g., Inkscape) lack easy-to-use procedural and non-linear editing capabilities
 - Non visual editors (e.g., TikZ) are ineligible for many users and sometimes hard to use even for programmers
 - Most 3D-editors (e.g., blender) do support procedural and non-linear editing but are overkill for 2D-graphics
 
 ## (2) Current status
+
 - Flexible, neat gui:
   - dockable managers
   - edit multiple objects at once, handle conflicting values gracefully
@@ -50,6 +57,9 @@
 - tested on linux/win; supposed to run on mac
 
 ## (3) Future
+
+![](ommpfritt-2.jpg)
+
 - keyframe- and event-based animation
 - node-based styles like blender
 - node-based visual scripting
