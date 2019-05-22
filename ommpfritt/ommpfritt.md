@@ -58,7 +58,7 @@
 
 ## (3) Future
 
-![](ommpfritt-2.jpg)
+![](ommpfritt-2.png)
 
 - keyframe- and event-based animation
 - node-based styles like blender
