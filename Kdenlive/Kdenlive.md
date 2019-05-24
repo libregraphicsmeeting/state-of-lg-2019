@@ -14,10 +14,12 @@ Among the highlights of the release are:
 + Improved keyframe handling
 + Audio recording
 + Configurable thumbnails for each track
-+ Improved proxy management 
-
++ Improved proxy management
++ Speed effect 
 
 There is still work to be done though! The team concentrated on stability (finding and fixing as many crashes as possible) and that the most important functionalities for a slim editing workflow work. There are still known issues in which they will dedicate the next 3 monthly releases of the 19.04 cycle to finish polishing the rough edges. During the first .1 release more than 40 issues were fixed.
+
+### Coming soon
 
 For the rest of the year the team have on the roadmap the following features:
 
