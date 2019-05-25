@@ -16,7 +16,7 @@
 
   All import/export filters have been redesinged and rewritten from scratch to improve translation quality and provide reliable development/support workflow.
 
-  We specifically focused on CorelDraw compatibility as for regular CDR files and for CorelDraw clipart file formats (CMX, CCX, CDRX) and different versions of CorelDraw palettes (CPL and XML). *Now the most unique feature of UniConvertor is an export to CDR and CMX file formats.* 
+  We specifically focused on CorelDraw compatibility as for regular CDR files and for CorelDraw clipart file formats (CMX, CCX, CDRX) and different versions of CorelDraw palettes (CPL and XML). **Now the most unique feature of UniConvertor is an export to CDR and CMX file formats.**
 
 
 ### slide 2
@@ -51,4 +51,5 @@
 
 And more than 100 different raster graphics file formats.
 
+### Release
 We have released RC4 snapshot for sK1 and UniConvertor, but final stable release is scheduled this summer.
