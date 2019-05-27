@@ -19,6 +19,6 @@
 ![](ommpfritt-2.png)
 
 - non-exhaustive feature list, there's much more
-- asterisk: future features
+- asterisk*: future features
 - announce talk about non-destructive editing in theory and practice at Friday 10:50
 
