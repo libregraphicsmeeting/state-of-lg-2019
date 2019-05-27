@@ -4,7 +4,11 @@
 
 ![](gimp-0.png)
 
-GNU Image Manipulation Program, or GIMP for short, is a free/libre general image editor for Linux, macOS, and Windows. The program is designed for building complex multilayered projects and provides dozens of selection, transformation, painting, and utility tools to build those with high bit depth precision. GIMP also ships with well over a hundred built-in filters for color adjustment and effects. Even more filters and scripts to process images and automate mundane tasks are available as 3rd party projects.
+GNU Image Manipulation Program, or GIMP for short, is a free/libre general image editor for Linux, macOS, and Windows.
+
+The program is designed for building complex multilayered projects and provides dozens of selection, transformation, painting, and utility tools to build those with high bit depth precision.
+
+GIMP also ships with well over a hundred built-in filters for color adjustment and effects. Even more filters and scripts to process images and automate mundane tasks are available as 3rd party projects.
 
 ### slide 1
 
@@ -13,17 +17,14 @@ GNU Image Manipulation Program, or GIMP for short, is a free/libre general image
 Since releasing GIMP 2.10.0 at the previous Libre Graphics Meeting, the project started including new features in stable releases. Some of the highlights are:
 
 - Initial support for DDS and HEIF images
-- New filters: _Spherize_, _Recursive Transform_, _Little Planet_, _Long Shadow_
-- Numeric input and cusp nodes support  in the _Curves_ filter
+- New filters
+- Numeric input and cusp nodes support in the _Curves_ filter
 - Performance improvements all over the program, including painting
+- Line art detection in the Bucket Fill tool for comic artists
 - Vertical text support and asynchronous fonts loading
 - Simple horizon straightening
-- 32-bit parametric brushes
-- Easier brush and pattern creation workflow
-- Line art detection in the Bucket Fill tool for comic artists
-- CIE xyY support in color readouts (Color Picker and Sample Points)
 - Various usability improvements in transformation tools
-- _Sample Merged_ option added to the _Heal_ tool and fixed in the _Clone_ tool
+- _Sample Merged_ option added to the _Heal_ tool
 - On-canvas layer selection
 - Better user experience on macOS, including signed binaries
 
