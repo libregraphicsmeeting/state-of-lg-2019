@@ -1,0 +1,30 @@
+babl/GEGL
+
+slide 0:
+  babl and GEGL the core libraries providing high bitdepth pixel buffers
+conversions and processsing operations for GIMP.
+
+slide 1:
+
+The biggest development is what the GIMP developers call the space invasion.
+
+First babl got internal support for managing arbitrary RGB color spaces without
+changing behavior of existing code in GEGL/GIMP, by having a new data-member
+associated with pixel formats, the space - when NULL treat as sRGB family of
+spaces.
+
+Then GEGL got support for handling the additional space, added in all its
+operations - again without changing the behavior of existing code.
+
+This part of the space invasion is now also almost complete in GIMP.
+
+in babl and GEGL it has continued and preliminary full support for CMYK is
+in place.
+
+slide 2:
+
+GEGL is getting a UI again - to help with testing, development, experimenting
+and verification of CMYK, non-destructive editing and other capabilities that
+have not made it into GIMP yet.
+
+For more details see Øyvind Kolås' talk here at 10:50.
