@@ -11,7 +11,7 @@
 - more visual than TikZ
 - similar concept as Cinema 4D or blender, but omm is entirely 2D
 
-- Omm provides **many special objects** and only **few tools**: cloning/arranging using Cloner-**object** rather than duplicate- and arrange-**tools**
+- Omm provides **many special objects** and only **few tools**. E.g., cloning/arranging using Cloner-**object** rather than duplicate- and arrange-**tools**
 - Cloning along Path: all properties are accessible anytime in the cloner-object (path, number of clones, ...)
 
 ----
