@@ -1,0 +1,23 @@
+SLIDE 1 (title)
+
+Morevna Project is an animation studio which utilizes and develops open-source software. The team of Morevna Project is contributing to development of many open-source tools - Synfig, OpenToonz, Papagayo and RenderChan.
+
+SLIDE 2
+
+Many Krita users probably know about its Assistant tool, which helps artist to draw perspective backgrounds. This year Morevna team has ported this feature to OpenToonz animation software. Now OpenToon users can use the same tool when they draw animation frames in OpenToonz. The Assistants in OpenToonz can also be animated.
+
+While this feature is waiting to be merged into official OpenToonz, it is already available in a special edition of OpenToonz, maintained by Morevna Project.
+
+SLIDE 3
+
+Morevna team is working on their own open-source anime series, called (surprise!) "Morevna". 
+
+The series is based on traditional Russian fairy-tale “Marya Morevna” (also known as “The Death of Koschei the Deathless”). In the original story a brave prince, Ivan Tsarevich, meets a beautiful princess, Marya Morevna, and they fall in love with each other. But Ivan makes a terrible mistake and accidentally unleashes an evil wizard, Koschei the Deathless. Koschei kidnaps Marya Morevna and Ivan has to go through a many dangers to rescue her. This is a fairy-tale full of horse chases, magical transformations, crazy twists and incredible creatures from Russian folklore.
+
+The animated series presents events of the traditional Russian fairy tale in a futuristic sci-fi setting. The action takes place in the distant future. This is a world of technology, where horses are replaced by bikes and cars, the main protagonist Ivan Tsarevich turns into a talented mechanic, Marya Morevna is a biker queen and Koschei is more immortal and evil than ever – as he is a battle robot!
+
+The series is produced using open-source software only, sources available under CreativeCommons Attribution-ShareAlike license, so anyone can use them for learning and creating derivative works.
+
+Today  is the day of public release of new Morevna episode. The episode is available at their PeerTube channel - just visit their official website for direct link. The episode is created using Krita, Synfig and Blender. Sources of this epsode will be published in the coming days - just watch for announcements on official website.
+
+The new episode will be screened at LGM as part of FILM MEETS FREE SOFTWARE evening (June 1st), so come drop by to watch it together on a big screen.
