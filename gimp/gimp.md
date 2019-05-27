@@ -4,7 +4,7 @@
 
 ![](gimp-0.png)
 
-GNU Image Manipulation Program, or GIMP for short, is a free/libre general image editor for Linux, macOS, and Windows. The program is designed for building complex multilayered projects and provides dozens of selection, transformation, painting, and utility tools to build those. GIMP also ships with well over a hundred built-in filters for color adjustment and effects. Even more filters and scripts to process images and automate mundane tasks are available as 3rd party projects.
+GNU Image Manipulation Program, or GIMP for short, is a free/libre general image editor for Linux, macOS, and Windows. The program is designed for building complex multilayered projects and provides dozens of selection, transformation, painting, and utility tools to build those with high bit depth precision. GIMP also ships with well over a hundred built-in filters for color adjustment and effects. Even more filters and scripts to process images and automate mundane tasks are available as 3rd party projects.
 
 ### slide 1
 
@@ -37,4 +37,4 @@ Two other ongoing efforts are extensions management and a subproject called _Spa
 
 For extensions management, the idea is to provide a centralized add-ons repository and an easy way to install/update/remove those from within GIMP.
 
-_Space Invasion_ is the next logical step to provide first-class support for any RGB color spaces.
+_Space Invasion_ is the next logical step to provide first-class support for arbitrary RGB color spaces. The relevant code is complete on the GEGL side and is nearing completion in GIMP.
