@@ -1,12 +1,12 @@
 glosbevore-0.png
 
-Glosbevore (lat.) is an eater of glass. 
+A glosbevore (lat.) is an eater of glass.
 It's also an animated short film that currently is in post production.
-It's a nature show, or perhaps a horror film, set in bright colours.
+It's a nature program, or perhaps a horror film set in bright colours and to acoustic soundtrack.
 
 The whole production chain involved open source tools like OpenToonz, Blender, Ardour, Krita, Gimp, FFMpeg, Joplin and Syncthing among others.
 
-The film will be released with a Creative Commons licence. Source material will also be released with a cc-by-sa license. No ETA there yet though.
+The film will be released with a Creative Commons licence. Source material will also be released with a cc-by license. No ETA there yet though.
 
 glosbevore-1.png
 
@@ -17,14 +17,13 @@ The image sequences are put together as scenes in OpenToonz where a lot of retim
 Blender and Ardour is also heavily used. Blender for compositing and editing and Ardour for the soundtrack.
 
 
-A bit unorganized at the moment but goto rylanderanimation.se for info and news.
+A bit unorganized at the moment but mail me or goto rylanderanimation.se for info and news.
 
 
 glosbevore-2.mp4
 
 A teaser for the film.
-https://www.dropbox.com/s/q0dgluk695yfey6/glosbevore-2.mp4
-
+https://www.dropbox.com/s/0rei6z1up9g1x86/glosbevore_teaser-LGM_190527.m4v
 
 
 ---
