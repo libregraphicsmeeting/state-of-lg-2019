@@ -1,17 +1,31 @@
 0
 
-Over the past year Filmulator hasn't gotten many new features, but it did gain improved highlight recovery, conversion to black-and-white with a channel mixer, and it now verifies the checksums of your files after it copies them.
+Over the past year Filmulator hasn't gotten many new features, but it
+did gain improved highlight recovery, conversion to black-and-white with
+a channel mixer, and it now verifies the checksums of your files after
+it copies them.
 
 1
 
-The largest change made was in response to LibRaw removing its Demosaic Packs in the latest version. Instead of having to port algorithms from RawTherapee directly into Filmulator, librtprocess (pronounced Lib R T Process) was created so that other projects could share RawTherapee's work more easily.
+The largest change made was in response to LibRaw removing its Demosaic
+Packs in the latest version. Instead of having to port algorithms from
+RawTherapee directly into Filmulator, librtprocess (pronounced Lib R T
+Process) was created so that other projects could share RawTherapee's
+work more easily.
 
-librtprocess is intended to be a way to ensure that new raw processing algorithms or improvements to existing ones can be easily shared among other libre photo editors.
+librtprocess is intended to be a way to ensure that new raw processing
+algorithms or improvements to existing ones can be easily shared among
+other libre photo editors.
 
-Currently we have Amaze, LMMSE, Auto CA Correct, Markesteijn, and many more useful routines.
+Currently we have Amaze, LMMSE, Auto CA Correct, Markesteijn, and many
+more useful routines.
 
 2
 
-Going forward, work is planned for improving Filmulator's library management and ensuring consistent image processing even for very large images.
+Going forward, work is planned for improving Filmulator's library
+management and ensuring consistent image processing even for very
+large images.
 
-As far as librtprocess is concerned, you get to help decide its future direction! On Friday there will be a meeting to discuss what direction the project should take.
+As far as librtprocess is concerned, you get to help decide its future
+direction! On Friday there will be a meeting to discuss what direction
+the project should take.
