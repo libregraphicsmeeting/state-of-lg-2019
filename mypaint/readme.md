@@ -10,8 +10,8 @@ Slide 2
 * And for some reason, Blue and white doesn't turn violet!
 * Overall "response" and "feel" is pretty satisfying.
 * But not without challenges.
-** Compatibility issues with premultiplied color have yet to be solved.
-** Performance issues abound; many calls to pow()
+* Compatibility issues with premultiplied color have yet to be solved.
+* Performance issues abound; many calls to pow()
 * But it looks nice.
 
 Slide 3
