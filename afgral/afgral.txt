@@ -1,0 +1,10 @@
+Organization : Association
+name : Association francophone des graphistes professionnels libre
+
+Our goal is to promote free graphics for professionnal use.
+
+We organise several workshop and event. One of them was Grafik Labor, some LGMer come to our event (thanks to them).
+This year we also organize the "Open video game Award" : obligation to use Blender and Godot engine. We receive 4 nice game. 
+Congratulation for our winner : Unhackneyed.
+
+Go to afgral.org to test the free game !

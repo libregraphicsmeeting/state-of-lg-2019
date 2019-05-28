@@ -1,0 +1,13 @@
+Organization : French association 
+Name : Floss Manuals Francophone
+
+This year we wrote collaboratively books :
+- Blender for video editing : 9 peoples with different experience of Blender or video editing wrote in 5 days ((booksprint)
+a book and some test video file to learn how use Blender for video editing.
+- Cedric Gemy wrote a new book about Scribus for beguinner 
+- Elisa de Castro Guerra wrote a book about Inkscape for beguinner
+- Floss Manuals Francophone help Sebastien Hache in writing a book about how write educational manual for school, he is co-found of the excellent collaborative Mathematic manual of french school.
+
+Also this year we help the English Floss Manuals by hosting a part of their infrastructure.
+
+We sell about 100 real books to librarian and university about free graphic and free culture (arduino, processing, scribus, inkscape, fontes libres, etc). We are also present on french event like R.M.L.L., or local event (Stunfest, jardin entropique).
