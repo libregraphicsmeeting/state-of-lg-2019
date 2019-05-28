@@ -1,0 +1,8 @@
+Slide 1.
+
+FontForge is a full-featured environment for designing, generating, adjusting, converting, and verifying typefaces, with support for over a dozen formats.
+
+Slide 2.
+
+FontForge now has an optional GDK front-end, which allows it to run without X11 on Windows and Macintosh. FontForge now exports true UFO 2 and 3 rather than the extended UFO 2 previously mandated by limitations in the ecosystem. Other recent additions include WOFF2 support, Unicode 12 support, and more granular access to splines from the scripting interface.
+
