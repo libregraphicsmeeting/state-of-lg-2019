@@ -1,9 +1,9 @@
-Slide 1
+Slide 0
 
 * MyPaint has been focusing on emulating paint media.
 * Putting the "paint" into MyPaint
 
-Slide 2
+Slide 1
 
 * Using an absorbance model (weighted geometric mean) has been fairly successful
 * Blue and Yellow make green!
@@ -14,7 +14,7 @@ Slide 2
 * Performance issues abound; many calls to pow()
 * But it looks nice.
 
-Slide 3
+Slide 2
 
 * Bump Mapping with Oren Nayer to bring out the canvas texture
 * Challenging to generate bump maps from tiled data without seams
