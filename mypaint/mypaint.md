@@ -19,7 +19,6 @@ Slide 2
 * Bump Mapping with Oren Nayer to bring out the canvas texture
 * Challenging to generate bump maps from tiled data without seams
 * Needs more neighbor tiles!
-* Lots of side-projects for color-related issues, implementing color appearance models, Pigment mixing, "truely limited palette", 
-* Color Temperature Shifting, etc
+* Lots of side-projects for color-related issues, implementing color appearance models, Pigment mixing, "truely limited palette", Color Temperature Shifting, etc
 * Need help with project maintenance!
 * Thank you!
